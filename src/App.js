@@ -132,7 +132,6 @@ fetch('http://localhost:3000/dataTable.json')
                 <td>{item.CHG_IN_OI}</td>
                 <td>{item.TIMESTAMP}</td>
 
-                {/* Add more table cells for your JSON fields */}
 
               </tr>
 
@@ -146,7 +145,6 @@ fetch('http://localhost:3000/dataTable.json')
 
         <div>
 
-          {/* Pagination controls */}
 
           <button
 
