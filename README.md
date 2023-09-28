@@ -6,7 +6,8 @@ We've provided the JSON file along with its data structure. Your task is to read
 
 Json - Provided link
 <br/>
-
+Solution:
+<br/>
 Technology Used: React 
 <br/>
 
