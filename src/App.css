@@ -6,6 +6,48 @@
   height: 40vmin;
   pointer-events: none;
 }
+/* Add border and set border color for the table */
+
+table {
+
+  border-collapse: collapse;
+
+  width: 100%;
+
+  border: 1px solid #ccc; /* Border color: gray */
+
+}
+
+ 
+
+/* Add border and set border color for table headers */
+
+th {
+
+  border: 1px solid #ccc; /* Border color: gray */
+
+  padding: 8px;
+
+  background-color: #f2f2f2; /* Header background color */
+
+}
+h1{
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+ 
+
+/* Add border and set border color for table cells */
+
+td {
+
+  border: 1px solid #ccc; /* Border color: gray */
+
+  padding: 8px;
+
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -14,7 +56,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #3562ba;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
